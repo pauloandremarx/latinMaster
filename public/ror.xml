@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://vortexti.com.br/</title>
+  <link>https://vortexti.com.br/</link>
+
+<item>
+     <link>https://vortexti.com.br/</link>
+     <title> Vortex </title>
+     <description>Independente da natureza do seu negócio, buscamos a eficiência operacional pela engenharia computacional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/easyserver</link>
+     <title> Vortex EasyServer </title>
+     <description>Solução FlexPod para Datacenters com arquitetura híbrida composta por Blades Cisco UCS e Storages NetApp interconectados através de switches Cisco Nexus para formar um conjunto único de equipamentos integrados com alta disponibilidade de ponta a ponta..</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/blog</link>
+     <title> Vortex </title>
+     <description>Independente da natureza do seu negócio, buscamos a eficiência operacional pela engenharia computacional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/case/case-1</link>
+     <title> Vortex </title>
+     <description>Independente da natureza do seu negócio, buscamos a eficiência operacional pela engenharia computacional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/case/case-2</link>
+     <title> Vortex </title>
+     <description>Independente da natureza do seu negócio, buscamos a eficiência operacional pela engenharia computacional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/case/case-3</link>
+     <title> Vortex </title>
+     <description>Independente da natureza do seu negócio, buscamos a eficiência operacional pela engenharia computacional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/case/case-4</link>
+     <title> Vortex </title>
+     <description>Independente da natureza do seu negócio, buscamos a eficiência operacional pela engenharia computacional.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/blog/single/1</link>
+     <title>Vortex</title>
+     <description>O grande prêmio de Parceiro do Ano pela 2ª vez e Excelência em Data Center pela 6ª vez.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://vortexti.com.br/blog/single/5</link>
+     <title>Vortex</title>
+     <description>Cisco é lider do mercado de servidores blade x86 no Brasil!</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

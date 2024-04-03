@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://vortexti.com.br/</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/blog</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/case/case-1</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/case/case-2</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/case/case-3</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/case/case-4</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/blog/single/1</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/blog/single/5</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vortexti.com.br/easyserver</loc>
+  <lastmod>2023-03-09T16:59:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+
+  <url>
+    <loc>https://vortexti.com.br/rubrik</loc>
+    <lastmod>2023-10-02T14:25:57+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://vortexti.com.br/rubrik/saude</loc>
+    <lastmod>2023-10-02T14:25:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://vortexti.com.br/rubrik/outros</loc>
+    <lastmod>2023-10-02T14:25:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://vortexti.com.br/rubrik/financeiro</loc>
+    <lastmod>2023-10-02T14:25:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://vortexti.com.br/rubrik/educacao</loc>
+    <lastmod>2023-10-02T14:25:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://vortexti.com.br/rubrik/varejo</loc>
+    <lastmod>2023-10-02T14:25:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+
+
+</urlset>

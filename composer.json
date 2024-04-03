@@ -1,0 +1,37 @@
+{
+  "require": {
+    "slim/slim": "^4.5",
+    "slim/psr7": "^1.2", 
+    "slim/http-cache": "^1.0",
+    "php-di/php-di": "^6.2",
+    "intervention/image": "^2.4", 
+    "maennchen/zipstream-php": "^2.2",
+    "nyholm/psr7-server": "^1.0",
+    "sentry/sentry-symfony": "^4.3", 
+    "league/plates": "^3.4",
+    "vlucas/phpdotenv": "^5.6",
+    "nesbot/carbon": "^2.72",
+    "filp/whoops": "^2.15",
+    "selective/basepath": "^2.1",
+    "slim/csrf": "^1.0",
+    "phpmailer/phpmailer": "^6.9"
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    },
+    "files": [
+      "app/helpers/config.php",
+      "app/helpers/helpers.php",
+      "app/helpers/render.php",
+      "app/helpers/flash.php",
+      "app/helpers/auth.php"
+    ]
+  },
+  "config": {
+    "allow-plugins": {
+      "php-http/discovery": true
+    }
+  }
+}

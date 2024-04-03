@@ -1,0 +1,70 @@
+@media (max-width:959px) {
+    .container_mecanico {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 95vw;
+        max-width: 1000px;
+        height: 40%; 
+    }
+
+    .h2_maior_distribuidor {
+        margin-top: 10em
+    }
+
+    .container_distribuitor {
+        padding-bottom: 3em
+    }
+
+    .img_pneu_3d {
+        max-width: 550px;
+        top: -70px;
+        margin-bottom: -70px
+    }
+
+    .icones_solucoes p {
+        max-width: 100px
+    }
+
+    .m-w-150 {
+        max-width: 100px
+    }
+
+    .m-w-190 {
+        max-width: 100px
+    }
+
+    .h2_ganha {
+        text-align: center;
+    }
+
+     .logo_left {
+         width: 100%;
+         padding: 2px; 
+         max-width: 60%;
+     }
+
+     .logo_right {
+        margin-left: -25px;
+         width: 100%;
+         padding: 2px; 
+         max-width: 70%;
+     }
+
+     .bg_form {
+         padding: 2em 0px;
+     }
+
+}
+
+
+@media (max-width:390px) {
+    .container_mecanico { 
+        height: 35%;
+        max-height: 500px;
+    }
+
+    .h1_latin_master_no_brasil { 
+        font-size: clamp(2.8em, 3.4vw, 3.4em);
+    }
+}
