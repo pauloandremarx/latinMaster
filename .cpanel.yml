@@ -3,6 +3,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home2/piqued26/public_html/latinMaster/
     - /bin/cp -R * $DEPLOYPATH
-    - cd $DEPLOYPATH
-    - /usr/local/bin/php /usr/local/bin/composer install --no-dev
+  
+
  
